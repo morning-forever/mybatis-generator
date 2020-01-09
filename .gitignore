@@ -1,0 +1,11 @@
+.idea
+.idea/*
+*.iml
+target
+node_modules
+.iml
+/.idea
+/*/*.iml
+/mnt-confcenter/mnt-confcenter.iml
+test
+mybatis-generator
